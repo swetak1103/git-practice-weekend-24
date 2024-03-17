@@ -23,7 +23,7 @@ To begin, create a branch called `branching` and switch to it. This will be our 
 
 Then, create a branch called `hello_world` and switch to it. Then, create a hello world program in any language, and save the file in a directory called `hellos`. Commit this change.
 
-Now, switch to `branching` and create a branch called `hello_git`. Create a program that prints `Hello, git!` and commit it in `hellos` folder in this branch. Remember to give different names to both programs(for example, `hello_world.py` and `hello_git.py`)
+Now, switch to `branching` and create a branch called `hello_git`. git
 
 ## Merging
 
